@@ -220,9 +220,32 @@
   },
   {
     "id": "6401dda7b50643809ec4dcff96abe901",
-    "imageUrl": "/extend-apps-directory/tournament_system.png",
+    "imageUrl": "/extend-apps-directory/cors.png",
     "title": "Tournament System",
     "description": "Set up tournament, invite players, and track scores all in one place, making it simple to organize exciting gaming events.",
-    "creator": "AccelByte"
+    "creator": "AccelByte",
+    "repositories": [
+      {
+        "title": "Tournament Service",
+        "description": "blablabla.",
+        "url": "https://github.com/accelbyte/tournamnet-system",
+        "language": "Go",
+        "index": true
+      },
+      {
+        "title": "Tournament Service",
+        "description": "blablabla.",
+        "url": "https://github.com/accelbyte/tournamnet-system",
+        "language": "Go",
+        "type": "service-extension"
+      },
+      {
+        "title": "Tournament Service",
+        "description": "blablabla.",
+        "url": "https://github.com/accelbyte/tournamnet-system",
+        "language": "Go",
+        "type": "event-handler"
+      }
+    ]
   }
 ]
